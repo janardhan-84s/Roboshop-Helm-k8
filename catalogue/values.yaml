@@ -1,0 +1,8 @@
+
+deployment:
+  imageURL: janardhanj265/catalogue
+  imageVersion: v1
+hpa:
+  maxReplicas: 10
+  utilisation: 75
+

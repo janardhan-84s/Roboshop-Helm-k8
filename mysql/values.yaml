@@ -1,0 +1,4 @@
+
+statefulset:
+  imageURL: janardhanj265/mysql
+  imageVersion: v1
