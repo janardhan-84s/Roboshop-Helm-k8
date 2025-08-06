@@ -5,3 +5,7 @@
    single code
 
 2. Mandatorly we have ## chart.yaml ## and ## values.yaml ## file for each component
+
+3. we are creating a namespace for our roboshop.
+
+4. Using EBS -storage class as well 
